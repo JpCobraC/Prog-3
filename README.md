@@ -58,7 +58,7 @@ Para executar os notebooks deste repositório, você precisará ter o Python 3.8
 
     ```bash
     python -m venv .venv
-    source .venv/bin/activate  # No Windows, use: .venv\Scripts\activate
+    source .venv/bin/activate
     ```
 
 3.  **Instale as dependências:**
